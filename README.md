@@ -2,7 +2,7 @@
 Bot for twitter to search for specific words or hashtags
 Works with regular expressions, twitter API, PHP, cURL, sendmail and MySQL
 
-
+<pre>
 <b>To install bot need to do the following steps:</b>
 1. Import into MySQL database sql script
 2. Configre DB connection file in 'includes/conn.php' with your credentials
@@ -16,3 +16,4 @@ Works with regular expressions, twitter API, PHP, cURL, sendmail and MySQL
 * PHP, PHP cURL
 * sendmail
 * cron (need to add 'includes/parse.php' into cron, time is optional on your choise)
+</pre>
