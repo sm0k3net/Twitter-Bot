@@ -1,6 +1,6 @@
 # Twitter-Bot
-Bot for twitter to search for specific words or hashtags
-Works with regular expressions, twitter API, PHP, cURL, sendmail and MySQL
+Bot for twitter to search for specific words or hashtags.<br />
+Works with regular expressions, twitter API, PHP, cURL, sendmail and MySQL.
 
 <pre>
 <b>To install bot need to do the following steps:</b>
